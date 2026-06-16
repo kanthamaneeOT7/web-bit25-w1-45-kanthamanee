@@ -6,9 +6,11 @@
     <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
-<body >
-<div>    
-<h1>งานที่1 กัญฐมณี พงษ์หิรัญเตชากิจ BIT.2/5 เลขที่ 45</h1>
+
+<div>
+   <body > 
+
+ <h1>งานที่1 กัญฐมณี พงษ์หิรัญเตชากิจ BIT.2/5 เลขที่ 45</h1>
     
      <button>
         <a href="while.php">For loop</a>
@@ -42,5 +44,9 @@
     
     
 
-</body>
+    </body>
+
+</div>    
+
+
 </html>

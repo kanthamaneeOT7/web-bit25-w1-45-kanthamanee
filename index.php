@@ -24,7 +24,7 @@
         
         <input type="submit" value="คำนวณ">
       
-       </div> 
+      
      </form>
 
      <?php
